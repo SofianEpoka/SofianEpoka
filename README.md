@@ -5,7 +5,7 @@ Software Engineering Student at Epoka University & Cloud Systems Specialist. Pas
 ---
 
 ### 🖥️ Interactive 3D Portfolio
-> 🕹️ Check out my live 3D Retro Workstation Portfolio: **[sofianepoka.github.io/Sofian-Portofolio](https://sofianepoka.github.io/Sofian-Portofolio/)**
+> 🕹️ Check out my live 3D Retro Workstation Portfolio: **[sofiansarrag.tech](https://sofiansarrag.tech/)**
 
 ---
 
