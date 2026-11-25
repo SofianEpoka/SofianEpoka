@@ -55,8 +55,4 @@ Software Engineering Student at Epoka University & Cloud Systems Specialist. Pas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofian-sarrag-70ab89193)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiansarrag@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofianEpoka&show_icons=true&theme=radial&hide_border=true" alt="Sofian's GitHub Stats" />
-</p>
