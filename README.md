@@ -1,25 +1,3 @@
-### How GitHub Profile README Works
-
-On GitHub, creating a repository whose name **matches your username exactly** creates a special profile `README.md`. Whatever you put inside this repository's `README.md` will automatically appear right at the top of your main GitHub profile page (`[github.com/SofianEpoka](https://github.com/SofianEpoka)`).
-
----
-
-### Step-by-Step Setup Instructions
-
-1. Go to **GitHub** and click **New Repository** (or visit `[https://github.com/new](https://github.com/new)`).
-2. Set the **Repository name** to `SofianEpoka` (matching your username exactly). GitHub will display a special message: *"You found a secret! SofianEpoka/SofianEpoka is a ✨special✨ repository..."*
-3. Make sure it is set to **Public**.
-4. Check the box **"Add a README file"**.
-5. Click **Create repository**.
-6. Open the newly created `README.md` file, click the **pencil edit icon**, replace everything with the Markdown code below, and click **Commit changes**.
-
----
-
-### Custom Profile `README.md` for Sofian Sarrag
-
-Here is a tailored, professional profile README combining your software engineering background, cloud lab experience, national swimming achievement, and dynamic badges:
-
-```markdown
 # Hi there, I'm Sofian Sarrag 👋 🚀
 
 Software Engineering Student at Epoka University & Cloud Systems Specialist. Passionate about building robust backend architectures, model-driven engineering, IaC, and interactive 3D web applications.
@@ -82,5 +60,3 @@ Software Engineering Student at Epoka University & Cloud Systems Specialist. Pas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SofianEpoka&show_icons=true&theme=radial&hide_border=true" alt="Sofian's GitHub Stats" />
 </p>
-
-```
